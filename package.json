@@ -8,7 +8,6 @@
     "dev": "nodemon"
   },
   "dependencies": {
-    "@socket.io/admin-ui": "^0.5.1",
     "express": "^4.21.2",
     "morgan": "^1.10.0",
     "pug": "^3.0.3",
